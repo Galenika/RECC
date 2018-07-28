@@ -1,4 +1,4 @@
 !Version=1.0.8.0
-!UseReserveOffsets=true
+!UseReserveOffsets=false
 RqA7njXJ7FhOS2sNpSTLCmWWHvowbBsd
 oqukbmfKIl3kr4pTM3By/EbujLqQ9roK
